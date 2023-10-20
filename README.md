@@ -1,0 +1,1 @@
+This Python script automatically organizes your files in your download folder into respective directories based on the file type. Additionally, it cleans up old PDFs and PPTs by deleting them after they've been in the download folder for 1 hour.
